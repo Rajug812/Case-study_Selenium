@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94927" started-at="2022-10-30T13:28:47Z" finished-at="2022-10-30T13:30:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94927" started-at="2022-10-30T13:28:47Z" finished-at="2022-10-30T13:30:22Z">
+      <class name="Selenium.Casestudy_selenium">
+        <test-method status="PASS" signature="BT()[pri:0, instance:Selenium.Casestudy_selenium@1230f6a]" name="BT" is-config="true" duration-ms="68701" started-at="2022-10-30T18:58:47Z" finished-at="2022-10-30T18:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Selenium.Casestudy_selenium@1230f6a]" name="test1" duration-ms="2681" started-at="2022-10-30T18:59:56Z" finished-at="2022-10-30T18:59:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:1, instance:Selenium.Casestudy_selenium@1230f6a]" name="test2" duration-ms="7829" started-at="2022-10-30T18:59:59Z" finished-at="2022-10-30T19:00:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:2, instance:Selenium.Casestudy_selenium@1230f6a]" name="test3" duration-ms="1485" started-at="2022-10-30T19:00:07Z" finished-at="2022-10-30T19:00:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="TestCase2()[pri:3, instance:Selenium.Casestudy_selenium@1230f6a]" name="TestCase2" duration-ms="8374" started-at="2022-10-30T19:00:08Z" finished-at="2022-10-30T19:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method status="PASS" signature="AT()[pri:0, instance:Selenium.Casestudy_selenium@1230f6a]" name="AT" is-config="true" duration-ms="5737" started-at="2022-10-30T19:00:17Z" finished-at="2022-10-30T19:00:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+      </class> <!-- Selenium.Casestudy_selenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
